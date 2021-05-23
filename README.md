@@ -7,17 +7,18 @@ Mood Journal will keep a track of your moods and thoughts.
 * In mood folder you can find all your data entries and can look how were you feeling some days ago.
 
 All the moods :-
-https://static.us.edusercontent.com/files/Q7E4RDUMA7F4tTdYzOatH8Bw
+
+![alt text](https://static.us.edusercontent.com/files/Q7E4RDUMA7F4tTdYzOatH8Bw)
 
 
 I used Tkinter library to make the simple GUI , it's an inbuild python library to make GUIs.
 
-https://static.us.edusercontent.com/files/ZBoPnOy7KlbVdcNgUOwmcWPd
+![alt text](https://static.us.edusercontent.com/files/ZBoPnOy7KlbVdcNgUOwmcWPd)
 
 Please give your valuable feedbacks on this :)
 
-https://static.us.edusercontent.com/files/hqrG51o4rzi8zahqCGZvRqTV
+![alt text](https://static.us.edusercontent.com/files/hqrG51o4rzi8zahqCGZvRqTV)
 
 Final Image :-
-https://static.us.edusercontent.com/files/58ub4cgEJS2C8RxEz4AMGyJC
+![alt text](https://static.us.edusercontent.com/files/58ub4cgEJS2C8RxEz4AMGyJC)
 
