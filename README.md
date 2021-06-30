@@ -17,7 +17,7 @@ I used Tkinter library to make the simple GUI , it's an inbuild python library t
 
 Please give your valuable feedbacks on this :)
 
-![alt text](https://www.youtube.com/watch?v=T_O3VSnp8NU&t=3s)
+![alt text](https://static.us.edusercontent.com/files/4GjGazh1uPrwhZO1tdTapvcT)
 
 Final Image :-
 
