@@ -6,7 +6,7 @@ Mood Journal will keep a track of your moods and thoughts.
 
 * In mood folder you can find all your data entries and can look how were you feeling some days ago.
 
-All the moods :-
+All the moods :--
 
 ![alt text](https://static.us.edusercontent.com/files/XMQTjjI2CACcggtsXV30SsVR)
 
