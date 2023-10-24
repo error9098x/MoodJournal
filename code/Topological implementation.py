@@ -5,8 +5,7 @@ class Graph :
     def __init__(self, arg_nodes) :
         self.nodes = arg_nodes
         self.visited = [False] * self.nodes
-        # The default dictionary would create an empty list as a default (value) 
-        # for the nonexistent keys.
+
         self.adjlist = defaultdict(list)
         self.stack  = deque()
 
